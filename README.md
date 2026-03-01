@@ -1,2 +1,2 @@
-# Playing-to-Lose-Sub-Game-Perfect-Equilibria-in-Three-Stage-Contests-with-Non-Monotone-Prizes
-Supplementary calculations of my current paper.
+# Playing to Lose: Sub-Game-Perfect Equilibria in Three Stage Contests with Non Monotone Prizes: Supplementary Calculations
+In this repository, you will find the supplementary calculations available as both an HTML file and a wxMaxima notebook. To view and interact with the notebook, you will need to download and install the free open-source computer algebra system, wxMaxima. Once opened, you can evaluate the cells to reproduce the mathematical derivations and equilibria calculations step-by-step.
